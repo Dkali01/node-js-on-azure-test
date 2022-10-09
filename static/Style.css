@@ -1,20 +1,35 @@
 body {
 background: #00b7ff;
 text-align: center;
+}
+p{
+	color:#f0ead6;
+}
+
+h1   {
+color:#f0ead6;
+margin: 25px auto;
 
 }
 
+h2   {
+color:#f0ead6
+}
 
 ul {
 	text-align: left;
 	list-style-type: square;
 	list-style-position: inside;
+	color:#f0ead6;
 }
 #main {
 width: 1000px;
-height: 1050px;
+height: 1370px;
 background: #ba2d2d;
 margin: 25px auto;
+border-style: solid;
+border-width: 15px;
+border-color: #f0ead6;
 }
 
 #subhead {
